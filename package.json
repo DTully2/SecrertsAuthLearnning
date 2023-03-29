@@ -1,0 +1,21 @@
+{
+  "name": "lrn-to-authenticate",
+  "version": "1.0.0",
+  "description": "learning how to authenticate",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.3",
+    "mongoose-encryption": "^2.1.2",
+    "node": "^17.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon Tully",
+  "license": "ISC"
+}
